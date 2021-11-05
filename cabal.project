@@ -1,0 +1,4 @@
+packages: */*.cabal
+
+package haskell-template-direnv
+  optimization: False
